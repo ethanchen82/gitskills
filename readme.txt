@@ -5,3 +5,4 @@ git stash test333.
 git stash test222.
 git brach from dev.
 dev
+master
